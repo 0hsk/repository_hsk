@@ -1,2 +1,5 @@
 hello
 kumoh
+
+Computer Sciences
+C programming
